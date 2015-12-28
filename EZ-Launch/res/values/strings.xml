@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ Copyright (C) 2010 Florian Sundermann
+
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+-->
+<resources>
+
+    <!-- English -->
+    <string name="app_name">EZ Launch</string>
+    <string name="widget4x4">EZ Launch Widget</string>
+    <string name="namekind">Name to display</string>
+    <string name="givenname">given name</string>
+    <string name="familyname">family name</string>
+    <string name="displayname">display name</string>
+    <string name="alias">nickname</string>
+
+    <string-array name="empty_array" />
+
+    <string name="loading">Loading EZ-Launch</string>
+    <string name="save">Save Snapshot</string>
+    <string name="select_contact_group">Contact group</string>
+    <string name="allcontacts">All Contacts *</string>
+    <string name="starred">Favorites *</string>
+    <string name="displayLabel">Widget label</string>
+    <string name="black">Black</string>
+    <string name="white">White</string>
+    <string name="transparent">Transparent</string>
+    <string name="ics_style">Ice Cream Sandwich</string>
+    <string name="background">Style</string>
+    <string name="showName">Show contact name</string>
+    <string name="pref_grp_data">Data</string>
+    <string name="pref_grp_layout">Layout</string>
+    <string name="pref_grp_general">General</string>
+    <string name="help">Help</string>
+    <string name="help_summary">Troubleshoot Widget</string>
+    <string name="okbtn">OK</string>
+    <string name="helptext">EZ-Launch will display apps on your home screen, depending on your usage.\n\n*Use fixed apps to check which apps should always appear on your homescreen, and which apps should never appear.\n\n*Use profiling to get a different arrangement for your applications for different hours on different days of the week.</string>
+    <string name="about">About</string>
+    <string name="donate">Donate</string>
+    <string name="abouttext">EZ-Launch is an application that provides a better, nicer and safer arrangement for your homescreen. \n\nFor any questions or feedback please contact our development team at EZLaunch@gmail.com</string>
+    <string name="columncount">Columns</string>
+    <string name="background_alpha">Background alpha</string>
+    <string name="launcher_too_old">Sorry, your launcher is to old, please update it!</string>
+    <string name="needs_froyo">This feature is only available on android 2.2 and above</string>
+    <string name="behavior">Behavior</string>
+    <string name="quickcontactbar">show QuickContactBar</string>
+    <string name="directdial">direct dial</string>
+    <string name="showcontact">show contact</string>
+    <string name="onclick">Click action</string>
+    <string name="sendsms">Send SMS</string>
+    <string name="textalign">Name position</string>
+    <string name="align_center">Center (below the picture)</string>
+    <string name="align_left">Left of the picture</string>
+    <string name="align_right">Right of the picture</string>
+    <string name="picksnap">Pick from saved home screens</string>
+    <string name="loadSnapshot">Load Snapshot</string>
+    <string name="button_text">Save</string>
+    <string name="fixAppsOnScreen">Fixed shortcuts</string>
+    <string name="StatistcsLabel">Apps Statistics &amp; Score</string>
+    <string name="StatistcsLabelDesc">Watch current application scoring</string>
+    <string name="pickApps">Choose which shortcuts will always/never appear on your widget</string>
+    <string name="appsPerScreen">Number of shortcuts</string>
+    <string name="appsPerScreenDescription">Select how many shortcuts to display</string>
+    <string name="selectApps">Select Apps</string>
+    <string name="saveText">Save Current Widget State to Data Base</string>
+    <string name="saveAsk">Save Current Snapshot?</string>
+    <string name="cancelbtn">Cancel</string>
+    <string name="configuration">Configuration</string>
+
+    <!-- UI STRINGS -->
+    <string name="insert_widget">To start launching easily,\n
+	    please add EZ-Launch widgets\n
+	    to your Homescreen.</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="dialog_delete">Pick a snapshot to delete from the database</string>
+    <string name="DeleteSnapshot">Delete Snapshot</string>
+    <string name="profiling">Work Profile</string>
+    <string name="switch_title">Enable profile</string>
+    <string name="prof_off">Off</string>
+    <string name="prof_on">On</string>
+    <string name="prof_sum_off">Profile Disabled</string>
+    <string name="prof_sum_on">Profile Enabled</string>
+    <string name="days_title">Working days</string>
+    <string name="days_summary">Select days for your Work profile</string>
+    <string name="hours_title">Working hours</string>
+    <string name="hours_summary">Set hours for your Work profile</string>
+    <string name="sunday">Sunday</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="score_base">Score: %.2f</string>
+
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+	android:minWidth="264dip"
+	android:minHeight="284dip"
+	android:initialLayout="@layout/main"
+	
+	android:resizeMode="horizontal|vertical"/>
+
+<!-- android:configure="com.sadna.widgets.application.ConfigurationActivity" -->
